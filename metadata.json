@@ -1,0 +1,8 @@
+{
+  "name": "Level Quiz",
+  "description": "Level-based MCQ Quiz App with 1,200+ levels, 3-star progression system, and offline question bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
